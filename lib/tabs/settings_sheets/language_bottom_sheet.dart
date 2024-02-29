@@ -26,7 +26,7 @@ class LanguageBottomSheet extends StatelessWidget {
                     style: GoogleFonts.poppins(
                         color: provider.languageCode == "en"
                             ? MyThemeData.primaryColor
-                            : MyThemeData.blackColor,
+                            : MyThemeData.whiteColor,
                         fontSize: 25,
                         fontWeight: FontWeight.w400)),
                 provider.languageCode == "en"
@@ -49,9 +49,9 @@ class LanguageBottomSheet extends StatelessWidget {
                 Text(AppLocalizations.of(context)!.arabic,
                     style: GoogleFonts.poppins(
                         color: provider.languageCode == "en"
-                            ? MyThemeData.blackColor
+                            ? MyThemeData.whiteColor
                             : MyThemeData.primaryColor,
-                       // provider.myTheme==MyThemeData.lightTheme?
+                        // provider.myTheme==MyThemeData.lightTheme?
                         fontSize: 25,
                         fontWeight: FontWeight.w400)),
                 provider.languageCode == "en"

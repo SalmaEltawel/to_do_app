@@ -52,7 +52,7 @@ class ModeBottomSheet extends StatelessWidget {
                 Text(AppLocalizations.of(context)!.dark,
                     style: GoogleFonts.poppins(
                         color: provider.myTheme == ThemeMode.light
-                            ? MyThemeData.blackColor
+                            ? MyThemeData.whiteColor
                             : MyThemeData.primaryColor,
                         fontSize: 25,
                         fontWeight: FontWeight.w400)),
