@@ -1,0 +1,11 @@
+{
+  "appName": "قائمه المهام",
+  "taskTitle": "عنوان المهمه",
+  "taskDescription": "وصف المهمه",
+  "language": "اللغه",
+  "english": "انجليزي",
+  "arabic": "عربي",
+  "mode": "الحاله",
+  "light": "مضئ",
+  "dark": "داكن"
+}

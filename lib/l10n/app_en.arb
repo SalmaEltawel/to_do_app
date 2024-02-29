@@ -1,0 +1,11 @@
+{
+  "appName": "To Do List",
+  "taskTitle": "Task Title",
+  "taskDescription": "TaskDescription",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "mode": "Mode",
+  "light": "Light",
+  "dark": "Dark"
+}
