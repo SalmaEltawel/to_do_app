@@ -37,7 +37,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
   date_picker_timeline: ^1.2.5
+  flutter_slidable: ^3.0.1
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.8
+
   provider: ^6.1.2
+
   flutter_localizations:
     sdk: flutter
   intl: any
